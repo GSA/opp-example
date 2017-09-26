@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: OPP Documentation
 permalink: /docs/
 
 layout: docs
@@ -14,7 +14,7 @@ subnav:
 
 # Section one
 
-This is some content.
+Hello OPP!
 
 # Section two
 
